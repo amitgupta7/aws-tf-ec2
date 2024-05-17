@@ -2,3 +2,7 @@ terraform.tfvars
 .terraform.lock.hcl
 credentials
 .terraform/*
+keypair
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
